@@ -20,7 +20,6 @@
 
 ### 🛠️ 正在构建 · Building
 
-- **[aiops-lab](https://github.com/skot-chen/aiops-lab)** — 可解释的智能运维实验室：日志模板化 → 异常检测 → 告警降噪 → 大模型根因分析 → 飞书推送，一台笔记本就能跑起来（本机 K8s + Prometheus）。
 - **[cat-clock](https://github.com/skot-chen/cat-clock)** — 两只住在桌面上的猫，各自显示一个城市的时间，到点提醒「该打电话啦」。给相隔 7 小时的两个人用。Windows + macOS。
 
 ### 🐾 代表作品 · Projects

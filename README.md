@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cat.png" width="300" alt="a lilac calico cat walking" />
+  <img src="assets/catmain.png" width="300" alt="a lilac calico cat walking" />
 </p>
 
 <h2 align="center">嗨，我是 skot 👋</h2>

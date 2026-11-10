@@ -2,7 +2,7 @@
   <img src="assets/cat.png" width="300" alt="a lilac calico cat walking" />
 </p>
 
-<h2 align="center">嗨，我是 scottchen123 👋</h2>
+<h2 align="center">嗨，我是 skot 👋</h2>
 
 <p align="center">
   运维出身，正在往 <b>AIOps</b> 转型。<br/>

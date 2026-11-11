@@ -5,9 +5,9 @@
 <h2 align="center">嗨，我是 skot 👋</h2>
 
 <p align="center">
-  运维出身，正在往 <b>AIOps</b> 转型。<br/>
+  做<b>运维自动化</b>和<b>智能运维</b>相关的小工具。<br/>
   喜欢做<b>小而顺手</b>的工具：打开就能用，不用装一堆东西。<br/>
-  <sub><i>An ops engineer moving into AIOps. I like small tools that just work.</i></sub>
+  <sub><i>Building small tools for ops automation. I like tools that just work.</i></sub>
 </p>
 
 ---

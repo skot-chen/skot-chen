@@ -6,6 +6,15 @@
 
 <p align="center">做小而顺手的工具：桌面应用 · 网页工具 · 运维自动化</p>
 
+<p align="center">
+  <samp>
+    <a href="https://kuake.qzz.io">blog</a> ·
+    <a href="https://github.com/skot-chen?tab=repositories">repos</a> ·
+    <a href="https://skot-chen.github.io/ops-drills/">try online</a> ·
+    <a href="https://github.com/skot-chen/cat-clock/releases/latest">download</a>
+  </samp>
+</p>
+
 ---
 
 ### 🖥️ 桌面应用
@@ -31,9 +40,17 @@
 | [**ticket-governance-demo**](https://skot-chen.github.io/ticket-governance-demo/dashboard/) | 工单治理：KPI、优先级矩阵、在线看板 |
 | [**modelscope-balance**](https://github.com/skot-chen/modelscope-balance) | 大模型 API 多 Key 负载均衡（Go） |
 
+### 🚀 最近发布
+
+<!-- releases:start -->
+- [cat-clock v0.1.1](https://github.com/skot-chen/cat-clock/releases/tag/v0.1.1) · 2026-11-09
+- [OpenCodeCat v1.0.3](https://github.com/skot-chen/OpenCodeCat/releases/tag/v1.0.3) · 2026-10-26
+- [ticket-governance-demo v0.1.0](https://github.com/skot-chen/ticket-governance-demo/releases/tag/v0.1.0) · 2026-09-17
+- [log-kb-lite v0.1.0](https://github.com/skot-chen/log-kb-lite/releases/tag/v0.1.0) · 2026-09-17
+<!-- releases:end -->
+
 ---
 
 <p align="center">
-  <code>Python</code> · <code>JavaScript</code> · <code>Go</code> · <code>Rust</code> · <code>Swift</code> · <code>Docker</code> · <code>GitHub Actions</code><br/><br/>
-  <a href="https://kuake.qzz.io">Blog</a> · <a href="https://github.com/skot-chen">GitHub</a>
+  <img src="https://skillicons.dev/icons?i=python,js,go,rust,tauri,swift,html,css,docker,githubactions&perline=10" alt="Python, JavaScript, Go, Rust, Tauri, Swift, HTML, CSS, Docker, GitHub Actions" />
 </p>
